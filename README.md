@@ -1,3 +1,3 @@
 # Proyecto_Vision
 
-Se ha ralizado en este proyecto un reconocedor de personas medienate el uso de imagenes
+En este proyecto se ha realizado un clasificador de imagenes, que mediante la esxtraccion de caracteristicas principales de las imagenes se hace la deteccion deteccion de personas
