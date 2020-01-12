@@ -6,6 +6,6 @@ En este proyecto se ha realizado un clasificador de imagenes, que mediante la es
 
 
 Autores:
-Jhonny Fabricio, Chicaiza Palomo - https://github.com/jhonnyfc
-David, Soto Arbizu - https://github.com/Kirtasth
+Jhonny Fabricio, Chicaiza Palomo - https://github.com/jhonnyfc                                                                         
+David, Soto Arbizu - https://github.com/Kirtasth                                                                                       
 Hanwei, Ke - https://github.com/Sendaia
