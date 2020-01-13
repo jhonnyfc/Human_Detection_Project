@@ -2,7 +2,7 @@
 
 In this project we have made a photo classifier, using HOG as feature analyzer and SVM.
 
-En este proyecto se ha realizado un clasificador de imagenes, que mediante la esxtracción de caracteristicas principales de las imagenes se consigue la deteccion de personas.
+En este proyecto se ha realizado un clasificador de imagenes mediante la esxtracción de caracteristicas principales de las imagenes.
 
 
 Autores:                                                                                                                                 
